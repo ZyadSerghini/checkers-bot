@@ -1,11 +1,20 @@
-# ♟️ Checkers AI Bot
+# ♟️ AI Checkers Bot
 
 <p align="center">
   <img src="./assets/checkers.gif" alt="Checkers Bot Demo"/>
 </p>
 
+<br>
 
-This project is a simple checkers game where a human player (white) plays against an AI (black) through a graphical interface. The game handles all standard rules (legal moves, captures, multi-jumps, and promotions), while the AI decides its moves using classic search algorithms. You can configure how the AI behaves before starting the game, allowing you to balance between speed and playing strength.
+🤖 **This project has been made as an assignment for my Introduction to Artificial Intelligence class.**
+
+It is a simple checkers game where a human player (white) plays against an AI (black) through a graphical interface. The game handles all standard rules (legal moves, captures, multi-jumps, and promotions), while the AI decides its moves using classic search algorithms. You can configure how the AI behaves before starting the game, allowing you to balance between speed and playing strength.
+
+To play, run the `PlayingTheGame.py` file.
+
+```bash
+python PlayingTheGame.py
+```
 
 ## ⚙️ Parameters
 
