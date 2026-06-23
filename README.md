@@ -18,6 +18,8 @@ python PlayingTheGame.py
 
 ## ⚙️ Parameters
 
+Before starting a game, you can configure how the AI thinks:
+
 * **S - Search Algorithm**
   Chooses how the AI thinks. Options include Minimax (basic), Alpha-Beta (faster with pruning), and Alpha-Beta with move ordering (more optimized).
 
@@ -26,3 +28,5 @@ python PlayingTheGame.py
 
 * **P - Depth**
   How many moves ahead the AI explores. Higher depth makes the AI stronger but slower.
+
+> 💡 For a snappier game, lower the depth or time limit. For a tougher opponent, raise the depth and let Alpha-Beta with move ordering do the heavy lifting.
